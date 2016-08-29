@@ -1,7 +1,7 @@
 {
   "name": "gulp-extract-ref",
   "description": "Extract file references from HTML build blocks.",
-  "version": "0.0.1.1",
+  "version": "0.0.2",
   "repository": "contra/gulp-extract-ref",
   "author": "Shifat Adnan <adnan.pri@gmail.com> (http://ndevrstudios.com/)",
   "files": [
