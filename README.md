@@ -42,7 +42,7 @@ The `type` parameter can be specify a particular build block. E.g. `{type: 'some
 
 (MIT License)
 
-Copyright (c) 2014 Fractal <contact@wearefractal.com>
+Copyright (c) 2016 Shifat Adnan <adnan.pri@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
