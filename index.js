@@ -158,7 +158,6 @@ module.exports = function(opts) {
     fileNames.forEach(function (fileName) {
         var newFile = file.clone();
         newFile.path = basePath + fileName;
-        console.log(newFile.path);
         newFile.contents = fs.readFileSync(newFile.path);
         this.push(newFile);
     }, this);
